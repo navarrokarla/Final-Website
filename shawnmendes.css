@@ -2,6 +2,7 @@ body {
 background-image: url("flower.jpeg");
 }
 p {
-         color: blue;
+         color: white;
+         background color:black;
          font-size: 15pt;
       }

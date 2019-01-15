@@ -6,3 +6,6 @@ p {
          background color:black;
          font-size: 15pt;
       }
+a:link { 
+  background-color: white;
+}

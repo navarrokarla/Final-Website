@@ -3,7 +3,7 @@ background-image: url("flower.jpeg");
 }
 p {
          color: white;
-         background color:black;
+         background-color:black;
          font-size: 15pt;
       }
 a:link { 
